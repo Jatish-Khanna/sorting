@@ -1,7 +1,8 @@
 # sorting
-<pre> A collection of algorithms to sort a list of Integers - the function has been decided at runtime based on size of list
-  numbersList < 10 - QuickSort
-  else numbersList  - MergeSort
+<pre> A collection of algorithms to sort a list of Integers - 
+the function has been decided at runtime based on size of list
+  numbersList.size() < 10 - QuickSort
+  else numbersList to be sorted using MergeSort
 </pre>
 
 # build
